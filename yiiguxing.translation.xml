@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distributor" />
       <item value="Return the current element in an array" />
       <item value="Format the instance as date and time" />
       <item value="static" />
