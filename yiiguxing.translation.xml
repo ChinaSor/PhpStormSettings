@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Build the relationships array for the model's eager load." />
       <item value="distributor" />
       <item value="Return the current element in an array" />
       <item value="Format the instance as date and time" />
