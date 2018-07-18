@@ -1,7 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="isMaterialTheme" value="false" />
+    <option name="tabOpacity" value="13" />
     <option name="userId" value="-bb34f73:1646d83f605:-8000" />
   </component>
 </application>
