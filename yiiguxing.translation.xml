@@ -12,4 +12,11 @@
       <item value="$ account" />
     </histories>
   </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+  </component>
 </application>

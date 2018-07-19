@@ -5,7 +5,8 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="accentColor" value="80cbc4" />
     <option name="isMaterialTheme" value="false" />
-    <option name="tabOpacity" value="13" />
+    <option name="tabOpacity" value="28" />
     <option name="userId" value="-bb34f73:1646d83f605:-8000" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
