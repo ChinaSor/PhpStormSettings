@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fideloper" />
       <item value="Determine if the current user is a guest." />
       <item value="Delay" />
       <item value="Build the relationships array for the model's eager load." />
@@ -13,12 +14,5 @@
       <item value="account" />
       <item value="$ account" />
     </histories>
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
   </component>
 </application>
