@@ -1,6 +1,30 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="File Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F12'</ShortCut>
+          <Description>File Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>New Scratch File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reformat Code">
         <Item>
           <IdeaActionID>ReformatCode</IdeaActionID>
