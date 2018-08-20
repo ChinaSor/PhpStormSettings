@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For notify, response 'fail' only please." />
+      <item value="For notify, response 'success' only please." />
+      <item value="Paid success, your statements go here." />
       <item value="Put a key / value pair or array of key / value pairs in the session." />
       <item value="Push a value onto a session array." />
       <item value="fideloper" />
