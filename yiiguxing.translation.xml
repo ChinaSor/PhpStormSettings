@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Put a key / value pair or array of key / value pairs in the session." />
+      <item value="Push a value onto a session array." />
       <item value="fideloper" />
       <item value="Determine if the current user is a guest." />
       <item value="Delay" />
