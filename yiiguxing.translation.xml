@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The user has been authenticated." />
       <item value="For notify, response 'fail' only please." />
       <item value="For notify, response 'success' only please." />
       <item value="Paid success, your statements go here." />
