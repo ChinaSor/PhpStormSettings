@@ -33,12 +33,20 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Relative Path">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -54,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>437</Count>
+          <Count>438</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
