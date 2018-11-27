@@ -6,7 +6,7 @@
       <option name="JS_STATEMENT" value="false" />
     </context>
   </template>
-  <template name="p-ax-get" value="return new Promise( (resolve, reject) =&gt; {&#10;  axios.get('').then((response) =&gt; {&#10;          &#10;  }).catch((error) =&gt; {&#10;    reject(response);&#10;  });&#10;});&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="p-ax-get" value="return new Promise( (resolve, reject) =&gt; {&#10;  axios.get('').then((response) =&gt; {&#10;          &#10;  }).catch((error) =&gt; {&#10;    reject(response);&#10;  });&#10;});&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
