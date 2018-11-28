@@ -17,6 +17,30 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse">
+        <Item>
+          <IdeaActionID>CollapseRegion</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+减号'</ShortCut>
+          <Description>Collapse</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>CollapseAllRegions</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+NumPad -' or 'Ctrl+Shift+减号'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse Recursively">
+        <Item>
+          <IdeaActionID>CollapseRegionRecursively</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+NumPad -' or 'Ctrl+Alt+减号'</ShortCut>
+          <Description>Collapse Recursively</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Context Info">
         <Item>
           <IdeaActionID>EditorContextInfo</IdeaActionID>
@@ -70,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>660</Count>
+          <Count>661</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -214,7 +238,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
