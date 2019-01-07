@@ -134,7 +134,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>81</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -246,7 +246,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -262,7 +262,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
