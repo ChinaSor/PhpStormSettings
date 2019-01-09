@@ -134,7 +134,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>93</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -270,7 +270,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
