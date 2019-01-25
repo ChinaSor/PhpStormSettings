@@ -22,7 +22,7 @@
           <IdeaActionID>CollapseRegion</IdeaActionID>
           <ShortCut>'Ctrl+NumPad -' or 'Ctrl+减号'</ShortCut>
           <Description>Collapse</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Collapse All">
@@ -342,7 +342,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
